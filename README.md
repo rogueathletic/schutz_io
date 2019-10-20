@@ -1,0 +1,1 @@
+Placeholder for Schutz.io developer landing domain for NPM/schutz.io packages
